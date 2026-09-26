@@ -1,12 +1,13 @@
 # David Herrera Arce
 
-Más de 25 años de experiencia en informática, con proyectos entregados tanto para instituciones de gobierno como para empresas privadas. Trabajé varios años con GenExus (distintas versiones, hasta la 18) antes de pasarme al stack que uso hoy. Construyo sistemas de gestión a medida (ERP, administración interna, punto de venta) desde el modelo de datos hasta el despliegue en producción.
+Más de 25 años de trayectoria en informática, con proyectos entregados para instituciones de gobierno y empresas privadas de distintos rubros. Trabajo en paralelo con dos generaciones de tecnología: GenExus, desde sus primeras versiones hasta la 18, y un stack propio en Node.js/Express + SQL Server para los sistemas que construyo hoy. Diseño y entrego sistemas de gestión a medida (ERP, administración interna, punto de venta) de principio a fin: modelo de datos, lógica de negocio y despliegue en producción.
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![GenExus](https://img.shields.io/badge/GenExus-hasta_v18-0057B7?style=flat)
 ![PM2](https://img.shields.io/badge/PM2-2B037A?style=flat&logo=pm2&logoColor=white)
 
 Los proyectos abajo son sistemas en producción o en fase de revisión con datos reales de cada organización, así que los repositorios son privados. Cada uno describe qué resuelve y cómo está construido, sin exponer código ni datos de clientes.
