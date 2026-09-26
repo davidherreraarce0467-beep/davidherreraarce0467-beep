@@ -1,6 +1,6 @@
 # David Herrera Arce
 
-Desarrollador full-stack. Construyo sistemas de gestión a medida (ERP, administración interna, punto de venta) para empresas e instituciones chilenas reales, desde el modelo de datos hasta el despliegue en producción.
+Más de 25 años de experiencia en informática, con proyectos entregados tanto para instituciones de gobierno como para empresas privadas. Trabajé varios años con GenExus (distintas versiones, hasta la 18) antes de pasarme al stack que uso hoy. Construyo sistemas de gestión a medida (ERP, administración interna, punto de venta) desde el modelo de datos hasta el despliegue en producción.
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
