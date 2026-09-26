@@ -75,4 +75,5 @@ Node.js + Express + SQL Server como stack por defecto para este tipo de sistema 
 
 ## Contacto
 
-_(completar: correo / LinkedIn)_
+- Correo: [david.herrera.arce.0467@gmail.com](mailto:david.herrera.arce.0467@gmail.com)
+- LinkedIn: [david-herrera-arce](https://www.linkedin.com/in/david-herrera-arce-04051621/)
